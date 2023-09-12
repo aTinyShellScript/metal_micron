@@ -4,4 +4,4 @@ Metal AB plates for the Micron printer. Rear tensioning with simple front idlers
 
 # Docs
 
-Documentation and Assembly Info can be found at: https://awd.docs.atinyshellscript.com/
+Documentation and Assembly Info can be found at: https://docs.atinyshellscript.com/
